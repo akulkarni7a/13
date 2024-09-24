@@ -143,7 +143,7 @@
     "lint-staged": "^15.0.2",
     "newman": "^6.0.0",
     "nx": "17.0.1",
-    "prettier": "^3.0.3",
+    "prettier": "^3.3.3",
     "prisma": "^4.16.1",
     "react-refresh": "^0.14.0",
     "storybook": "^7.5.1",
